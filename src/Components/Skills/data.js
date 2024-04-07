@@ -1,27 +1,27 @@
 export const dsa = [
-	{ name: "C++", level: "Intermediate", icon: "bx bxl-c-plus-plus" },
-	{ name: "JavaScript", level: "Intermediate", icon: "bx bxl-javascript" },
-	{ name: "Python", level: "Basic", icon: "bx bxl-python" },
-	{ name: "DSA and OOPS", level: "Intermediate", icon: "bx bx-data" },
+	{ name: "C++", level: "Advanced", icon: "bx bxl-c-plus-plus" },
+	{ name: "JavaScript", level: "Advanced", icon: "bx bxl-javascript" },
+	{ name: "Python", level: "Intermediate", icon: "bx bxl-python" },
+	{ name: "TypeScript", level: "Intermediate", icon: "bx bxl-typescript" },
 ];
 
 export const frontEnd = [
-	{ name: "ReactJS", level: "Intermediate", icon: "bx bxl-react" },
-	{ name: "BootStrap", level: "Advance", icon: "bx bxl-bootstrap" },
-	{ name: "MaterialUI", level: "Basic", icon: "uil uil-icons" },
+	{ name: "ReactJS", level: "Advanced", icon: "bx bxl-react" },
+	{ name: "NextJS", level: "Advanced", icon: "uil uil-icons" },
+	{ name: "Tailwind", level: "Advance", icon: "bx bxl-tailwind-css" },
 	{ name: "Flutter", level: "Basic", icon: "bx bxl-flutter" },
 ];
 
-export const tools = [
-	{ name: "Git", level: "Intermediate", icon: "bx bxl-git" },
-	{ name: "GitHub", level: "Intermediate", icon: "bx bxl-github" },
-	{ name: "Netlify", level: "Intermediate", icon: "bx bxl-netlify" },
-	{ name: "Firebase", level: "Basic", icon: "bx bxl-firebase" },
+export const backend = [
+	{ name: "Express.js", level: "Advanced", icon: "bx bx-code" },
+	{ name: "Node.js", level: "Intermediate", icon: "bx bxl-nodejs" },
+	{ name: "Cloudflare Workers", level: "Intermediate", icon: "bx bx-cloud" },
+	{ name: "Hono", level: "Intermediate", icon: "uil uil-fire" },
 ];
 
-export const softSkills = [
-	{ name: "Time Management", level: "Intermediate", icon: "bx bx-time" },
-	{ name: "Communication", level: "Advanced", icon: "bx bxs-megaphone" },
-	{ name: "Adaptability", level: "Intermediate", icon: "bx bx-message-square-dots" },
-	{ name: "Public Speaking", level: "Advanced", icon: "bx bx-chat" },
+export const database = [
+	{ name: "MongoDB", level: "Advanced", icon: "bx bxl-mongodb" },
+	{ name: "PostgreSQL", level: "Advanced", icon: "bx bxl-postgresql" },
+	{ name: "Prisma", level: "Intermediate", icon: "bx bxs-pyramid" },
+	{ name: "Firebase", level: "Basic", icon: "bx bxl-firebase" },
 ];
